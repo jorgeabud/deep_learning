@@ -51,11 +51,13 @@ Finally, use the testing data to evaluate each model and compare the performance
 Use the above to answer the following:
 
 > Which model has a lower loss?
->
-> Which model tracks the actual values better over time?
->
-> Which window size works best for the model?
+>   The model for Closing Prices has a lower loss than the FNG one.
 
+> Which model tracks the actual values better over time?
+>   The model for Closing Prices tracks the actaul values better over time, but it is not very accurate either way.
+
+> Which window size works best for the model?
+>   
 - - -
 
 ### Resources
